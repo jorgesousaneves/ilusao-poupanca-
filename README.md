@@ -11,7 +11,7 @@ Este projeto de Engenharia de Dados constrói um pipeline ETL completo (Bronze, 
 
 ## :bar_chart: Resultado Final (Dashboard)
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a750e2c2-7033-4f16-9eff-6970cc2eb62a" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1370542e-0946-4816-bb94-588a47c078b0" />
 ---
 
 ## Arquitetura da Solução
