@@ -5,7 +5,7 @@
 
 > **"Se eu tivesse investido R$ 10.000,00 há 5 anos, qual seria meu patrimônio hoje?"**
 
-Este projeto de Engenharia de Dados constrói um pipeline ETL completo (Bronze, Silver, Gold) para responder a essa pergunta, comparando a performance da moeda fiduciária brasileira (Poupança) contra ativos globais (S&P 500) e ativos escassos (Bitcoin), todos normalizados em Reais (BRL).
+Este projeto de Engenharia de Dados constrói um pipeline ETL completo (Bronze, Silver, Gold) para responder a essa pergunta, comparando a performance da moeda fiduciária brasileira (Poupança) e ativos escassos (Bitcoin,ouro), todos normalizados em Reais (BRL).
 
 ---
 
