@@ -14,7 +14,7 @@ Este projeto de Engenharia de Dados constrói um pipeline ETL completo (Bronze, 
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a750e2c2-7033-4f16-9eff-6970cc2eb62a" />
 ---
 
-## :construction_site: Arquitetura da Solução
+## Arquitetura da Solução
 
 O projeto segue a **Arquitetura Medalhão (Medallion Architecture)** dentro do Databricks, garantindo rastreabilidade e qualidade dos dados.
 
